@@ -1,4 +1,4 @@
-# MyMD — Personal Knowledge Database
+# MyMD — Personal Data Managment System
 
 <div align="center">
 
