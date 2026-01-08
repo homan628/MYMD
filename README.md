@@ -18,6 +18,9 @@
 
 ## English
 
+Instead of cramming all the knowledge into a single agent, I decided to store information in separate files—like Claude’s Skills. 
+This way, it reduces token usage when loading data and keeps everything organized.
+
 ### The Problem
 
 Traditional AI chatbots read your entire conversation history every time you ask a question:
@@ -108,6 +111,9 @@ Works with **Cursor**, **VS Code + Copilot**, **Obsidian**, or any AI editor.
 
 ## 中文
 
+不是把所有知識都塞進一個對話或Agent中, 而是像Claude Skill一樣, 把信息分別記錄在獨立文件中
+這樣不就能減少讀取時的Token, 而且還能更好地整理和管理, 所以我嘗試做了這個結構.
+
 ### 問題
 
 傳統 AI 聊天機器人每次回答問題，都要重讀整段對話記錄：
@@ -197,6 +203,9 @@ AI 依照 `_system/_metadata.md` 規則：
 <a name="japanese"></a>
 
 ## 日本語
+
+ClaudeのSkillみたいに全知識を一つのAgentにぶち込むんじゃなくて、
+情報をそれぞれの分断したファイルで記録を残したら読み込むするときのTokensが減るし、ちゃんと整理できるからと思って作りました。
 
 ### 問題
 
