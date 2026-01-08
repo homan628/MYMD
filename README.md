@@ -6,7 +6,7 @@
 ![AI Ready](https://img.shields.io/badge/AI-Native-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-**把你的人生數據，變成 AI 能精準讀取的知識庫**
+**🧠 AI-native personal knowledge database — Zettelkasten meets RAG. Each entity in one self-contained MD file for precise AI retrieval.**
 
 [English](#english) | [中文](#chinese) | [日本語](#japanese)
 
