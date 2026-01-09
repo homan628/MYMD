@@ -1,5 +1,10 @@
 # MyMD — Personal Data Managment System
 
+Transfer your data from apple, google, etc
+Make Diary out of your chat histories.
+The ultimate personal database for yourself.
+
+
 <div align="center">
 
 ![MyMD System](https://img.shields.io/badge/MyMD-v1.0.0-blue)
